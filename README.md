@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hello World! I'm Ando D Bawental👋
 
-<!--
-**AndoBawental/AndoBawental** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Monkey D Luffy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3J2bHBtN3J2OHdmZWliMTF0cTQ3dTNwajRiNTB0cmg2enJ0bGFkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Programming
+
+
+
+## 📫 Let's Connect
+- 🔗 LinkedIn: [Ando Bawental](https://www.linkedin.com/in/ando-bawental-3386632b0/)
+- ✉️ Email: [bawentalando@gmail.com](mailto:bawentalando@gmail.com)
+- 🌐 Personal Blog: [Coming Soon!]
+
+---
+
+<p align="center">
+  <i>"Infrastructure as poetry, code as art"🎨</i>
+</p>
